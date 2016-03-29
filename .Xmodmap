@@ -1,0 +1,15 @@
+clear   lock
+clear   mod1
+clear   mod4
+
+keycode  64 = Meta_L
+keycode  135 = Alt_R
+keycode  66 = Super_L
+keycode  133 = Alt_L
+keycode  108 = Meta_R
+
+add lock    = Super_L
+add mod1    = Meta_L Meta_R
+add mod4    = Alt_L Alt_R
+
+pointer = 1 2 3 4 5 6 7 8 9 10 11 12
